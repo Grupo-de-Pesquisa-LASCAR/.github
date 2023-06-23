@@ -1,3 +1,3 @@
-## Hi there 👋
+## Olá! 👋
 
-Esta organização tem como objetivo armanezar trabalhos realizados no PPGEE - UFRGS, mais especificamente, relacionados a área de automação.
+Esta organização tem como objetivo armazenar trabalhos realizados no PPGEE – UFRGS, mais especificamente relacionados à área de Controle e Automação.
