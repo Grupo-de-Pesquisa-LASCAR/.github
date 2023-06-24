@@ -6,7 +6,7 @@ Esta organização tem como objetivo armazenar e organizar trabalhos realizados 
 
 Somos um grupo de pessoas formado por universitários, alunos de doutorado, mestrado e graduação, todos motivados a propor e desenvolver soluções tecnológicas para as atuais necessidades mundiais. 
 
-Nosso grupo está ligado ao Programa de Pós-Graduação em Engenharia Elétrica [PPGEE](http://www.ufrgs.br/ppgee/) da Universidade Federal do Rio Grande do Sul (UFRGS). 
+Nosso grupo está ligado ao Programa de Pós-Graduação em Engenharia Elétrica [PPGEE](http://www.ufrgs.br/ppgee/) da Universidade Federal do Rio Grande do Sul (UFRGS). O PPGEE recebeu a nota máxima 7, excelência internacional, na avaliação quadrienal da CAPES 2017-2020. 
 
 ## Linhas de Pesquisa :computer:	:robot:
 
@@ -26,6 +26,6 @@ Envie-nos um e-mail: edison.pignaton@ufrgs.br
 
 ## Onde estamos? :world_map:	
 
-Estamos localizaos na Av. Osvaldo Aranha, 103 - 206 B - Bom Fim, Porto Alegre - RS, 90035-190. 
+Estamos localizaos na Av. Osvaldo Aranha, 103 - 206 B - Bom Fim, Porto Alegre - RS, 90035-190. O nome do laboratório 
 
 
