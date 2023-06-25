@@ -24,8 +24,8 @@ As áreas de concentração são automação e robôtica, sendo as principais li
 
 Envie-nos um e-mail: edison.pignaton@ufrgs.br 
 
-## Onde estamos? :world_map:	
+## Onde estamos? :world_map: :pushpin:
 
-Estamos localizaos na Av. Osvaldo Aranha, 103 - 206 B - Bom Fim, Porto Alegre - RS, 90035-190. O nome do laboratório 
+Av. Osvaldo Aranha, 103 - Centro Histórico, Porto Alegre - RS, 90035-190. 
 
 
